@@ -8,4 +8,13 @@ body {
     width:40%;
     height:auto;
     margin: 10px;
+    border:5px solid black;
+}
+
+#gallery-box {
+    margin:auto;
+}
+
+#gallery-heading {
+    margin:auto;
 }
